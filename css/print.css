@@ -1,0 +1,20 @@
+/*Printing*/
+nav {
+  display: none;
+}
+
+body {
+  color: black;
+}
+  
+h1, h2 {
+  color: black;
+}
+  
+header {
+  background: #fff;
+}
+
+footer {
+  color: black;
+}
