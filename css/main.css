@@ -167,13 +167,15 @@ body {
 
 /* green header */
 header {
-  background: #0D8CFF;
+  /*background: #0D8CFF;*/
+  background: #06467F;
   /*border-color: #599a68;*/
 }
 
 /* nav background on mobile */
 nav {
-  background: #06467F;
+  /*background: #06467F;*/
+  /*background: #999999;*/
 }
 
 /* logo text */

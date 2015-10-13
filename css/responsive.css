@@ -70,7 +70,8 @@
   }
   
   header {
-    border-bottom: 5px solid #06467F;
+    /*border-bottom: 5px solid #06467F;*/
+    border-bottom: 5px solid #999999;
     margin-bottom: 60px;
   }
 }
