@@ -165,17 +165,14 @@ body {
   color: #999;
 }
 
-/* green header */
+/* blue header */
 header {
-  /*background: #0D8CFF;*/
   background: #06467F;
-  /*border-color: #599a68;*/
 }
 
 /* nav background on mobile */
 nav {
-  /*background: #06467F;*/
-  background: #999999;
+  background: #053865;
 }
 
 /* logo text */
@@ -193,10 +190,10 @@ nav a, nav a:visited {
   color: #fff;
 }
 
-/* slected nav link */
-/*nav a.selected, nav a:hover {*/
-/*  color: black; */
-/*}*/
+ /*selected nav link */
+nav a.selected, nav a:hover {
+  color: #478DCB; 
+}
 
 /*******************************************************************************
 
@@ -275,8 +272,7 @@ Responsive Design
   }
   
   header {
-    /*border-bottom: 5px solid #06467F;*/
-    border-bottom: 5px solid #999999;
+    border-bottom: 5px solid #053865;
     margin-bottom: 60px;
   }
 }
