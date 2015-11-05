@@ -130,6 +130,11 @@ PAGE: ABOUT
   border-radius: 100%;
 }
 
+/*#aboutSection {*/
+/*  max-width: 660px;*/
+/*  margin: 0 auto;*/
+/*}*/
+
 /**********************************
 PAGE: CONTACT
 ***********************************/
@@ -162,7 +167,7 @@ COLORS
 /* site body */
 body {
   background-color: #fff;
-  color: #999;
+  color: gray;
 }
 
 /* blue header */
